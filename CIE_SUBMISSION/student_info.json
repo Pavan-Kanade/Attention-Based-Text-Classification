@@ -1,0 +1,25 @@
+{
+  "project_topic": "Attention-Based Text Classification",
+  "tagline": "Deep Learning PBL \u2013 Understanding Which Words Matter for Text Classification",
+  "publication_status": "Not Published (Pending Manual Verification)",
+  "student_1": {
+    "name": "Abhijit Kamasane",
+    "roll_no": "34131",
+    "assigned_paper": "Bahdanau et al. (2014) - Neural Machine Translation by Jointly Learning to Align and Translate"
+  },
+  "student_2": {
+    "name": "Vedant Kambale",
+    "roll_no": "34132",
+    "assigned_paper": "Luong et al. (2015) - Effective Approaches to Attention-based Neural Machine Translation"
+  },
+  "student_3": {
+    "name": "Pavan Kanade",
+    "roll_no": "34133",
+    "assigned_paper": "Vaswani et al. (2017) - Attention Is All You Need"
+  },
+  "student_4": {
+    "name": "(Group Member 4)",
+    "roll_no": "34134",
+    "assigned_paper": "Yang et al. (2016) - Hierarchical Attention Networks for Document Classification"
+  }
+}
